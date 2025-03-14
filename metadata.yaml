@@ -1,0 +1,32 @@
+_repo: The-life-of-Henry-Labouchere_75377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thorold, Algar
+    alias: Thorold, Algar Labouchere
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '58001'
+    url: http://www.gutenberg.org/2009/agents/58001
+description: ''
+gutenberg_issued: '2025-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75377'
+  lccn: '13025364'
+language: en
+pgterms:marc904: https://archive.org/details/lifeofhenrylabou0000unse/mode/2up
+pgterms:marc905: 20250202114348thorold
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labouchere, Henry Du Pré, 1831-1912'
+- !lcc 'DA'
+- GITenberg
+title: The life of Henry Labouchere
+url: http://www.gutenberg.org/ebooks/75377
